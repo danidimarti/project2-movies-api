@@ -1,0 +1,245 @@
+,Date,Title_net,Title_imdb,genre,rating
+0,2023-01-29,The Godfather,,,
+3,2023-01-29,Arrested Development,Arrested Development,Comedy            ,8.7
+7,2023-01-28,Wednesday,Wednesday,"Comedy, Crime, Fantasy            ",8.2
+9,2023-01-14,The Pale Blue Eye,The Pale Blue Eye,"Crime, Horror, Mystery            ",6.6
+10,2023-01-08,1899,1899,"Drama, Mystery            ",7.4
+11,2023-01-06,White Noise,White Noise,"Comedy, Drama, Horror            ",5.7
+16,2022-12-23,Guillermo del Toro's Cabinet of Curiosities,Guillermo del Toro's Cabinet of Curiosities,"Drama, Horror, Mystery            ",7.0
+21,2022-12-12,Harry & Meghan,Harry & Meghan,Documentary            ,4.9
+23,2022-12-12,Riverdale,Riverdale,"Crime, Drama, Mystery            ",6.6
+26,2022-12-11,The Gray Man,The Gray Man,"Action, Thriller            ",6.5
+30,2022-11-30,Dead to Me,Dead to Me,"Comedy, Crime, Drama            ",8.0
+42,2022-09-18,Do Revenge,Do Revenge,Comedy            ,6.3
+43,2022-09-18,Love Is Blind,Love Is Blind,"Game-Show, Reality-TV, Romance            ",6.1
+45,2022-08-21,Persuasion,Persuasion,"Drama, Romance            ",5.8
+49,2022-06-27,The Man from Toronto,The Man from Toronto,"Action, Adventure, Comedy            ",5.8
+51,2022-06-18,Spiderhead,Spiderhead,"Action, Crime, Drama            ",5.4
+53,2022-06-17,God's Favorite Idiot,God's Favorite Idiot,"Comedy, Fantasy            ",5.7
+58,2022-05-20,I Think You Should Leave with Tim Robinson,I Think You Should Leave with Tim Robinson,Comedy            ,7.9
+60,2022-05-19,The Weekend Away,The Weekend Away,"Crime, Drama, Mystery            ",5.6
+61,2022-04-23,Anatomy of a Scandal,Anatomy of a Scandal,"Drama, Thriller            ",7.0
+63,2022-04-22,Russian Doll,Russian Doll,"Comedy, Drama, Mystery            ",7.8
+64,2022-04-20,Space Force,Space Force,Comedy            ,6.7
+68,2022-03-31,Downsizing,Downsizing,"Drama, Fantasy, Sci-Fi            ",5.8
+73,2022-03-27,Bridgerton,Bridgerton,"Drama, History, Romance            ",7.4
+78,2022-03-13,The Adam Project,The Adam Project,"Action, Adventure, Comedy            ",6.7
+79,2022-01-21,Too Hot to Handle,Too Hot to Handle,"Game-Show, Reality-TV, Romance            ",4.7
+80,2022-01-21,After Life,After Life,"Comedy, Drama            ",8.4
+82,2022-01-15,The Hand of God,The Hand of God,Drama            ,7.3
+83,2021-10-26,Suits,Suits,"Comedy, Drama            ",8.5
+86,2021-09-26,Sex Education,Sex Education,"Comedy, Drama            ",8.3
+87,2021-08-22,Bake Squad,Bake Squad,"Game-Show, Reality-TV            ",6.9
+95,2021-07-08,Sexify,Sexify,"Comedy, Drama            ",6.5
+97,2021-06-16,Workin' Moms,Workin' Moms,"Comedy, Drama            ",7.8
+101,2021-03-24,Deadly Illusions,Deadly Illusions,"Drama, Thriller            ",3.7
+104,2021-03-21,The Old Guard,The Old Guard,"Action, Thriller            ",6.6
+105,2021-03-16,Hillbilly Elegy,Hillbilly Elegy,Drama            ,6.7
+108,2021-03-12,Colony,Colony,"Action, Adventure, Drama            ",7.4
+122,2021-01-30,Bling Empire,Bling Empire,Reality-TV            ,5.8
+130,2021-01-08,Alice in Borderland,Alice in Borderland,"Action, Drama, Mystery            ",7.7
+134,2020-12-13,The Queen's Gambit,The Queen's Gambit,Drama            ,8.6
+135,2020-11-26,The Crown,The Crown,"Biography, Drama, History            ",8.6
+140,2020-11-14,I'm Thinking of Ending Things,I'm Thinking of Ending Things,"Drama, Thriller            ",6.6
+144,2020-11-12,Lucy,Lucy,"Action, Sci-Fi, Thriller            ",6.4
+145,2020-11-11,The Witcher,The Witcher,"Action, Adventure, Drama            ",8.1
+147,2020-11-08,Barbarians,Barbarians,"Action, Adventure, Drama            ",7.2
+156,2020-10-24,The Trial of the Chicago 7,The Trial of the Chicago 7,"Drama, History, Thriller            ",7.7
+167,2020-09-19,Ratched,Ratched,"Crime, Drama, History            ",7.3
+175,2020-09-11,Set It Up,Set It Up,"Comedy, Romance            ",6.5
+177,2020-09-07,Castlevania,Castlevania,"Animation, Action, Adventure            ",8.3
+183,2020-08-23,South Park,South Park,"Animation, Comedy            ",8.7
+186,2020-08-03,Community,Community,Comedy            ,8.5
+188,2020-08-01,The Umbrella Academy,The Umbrella Academy,"Action, Adventure, Comedy            ",7.9
+189,2020-07-31,Good Girls,Good Girls,"Comedy, Crime, Drama            ",7.7
+192,2020-07-23,The 100,The 100,"Drama, Mystery, Sci-Fi            ",7.6
+198,2020-06-29,Dark,Dark,"Crime, Drama, Mystery            ",8.7
+201,2020-06-23,The Sinner,The Sinner,"Crime, Drama, Mystery            ",7.9
+218,2020-05-13,Easy,Easy,Comedy            ,6.9
+227,2020-04-27,Extraction,Extraction,"Action, Thriller            ",6.7
+233,2020-04-14,The Invitation,The Invitation,"Drama, Horror, Mystery            ",6.6
+236,2020-04-11,Family Guy,Family Guy,"Animation, Comedy            ",8.2
+243,2020-04-03,Spider-Man,Spider-Man,"Action, Adventure, Sci-Fi            ",7.4
+246,2020-03-28,Contagion,Contagion,"Drama, Thriller            ",6.8
+247,2020-03-25,Better Call Saul,Better Call Saul,"Crime, Drama            ",8.9
+248,2020-03-21,Arrival,Arrival,"Drama, Mystery, Sci-Fi            ",7.9
+249,2020-03-21,Kingdom,Kingdom,"Action, Drama, Horror            ",8.3
+255,2020-03-12,The Stranger,The Stranger,"Crime, Drama, Thriller            ",6.6
+260,2020-03-03,La La Land,La La Land,"Comedy, Drama, Music            ",8.0
+263,2020-02-16,Vikings,Vikings,"Action, Adventure, Drama            ",8.5
+265,2020-02-05,BoJack Horseman,BoJack Horseman,"Animation, Comedy, Drama            ",8.8
+267,2020-01-31,The Good Place,The Good Place,"Comedy, Drama, Fantasy            ",8.2
+268,2020-01-28,Black Mirror,Black Mirror,"Drama, Mystery, Sci-Fi            ",8.8
+274,2019-12-07,Marriage Story,Marriage Story,"Drama, Romance            ",7.9
+276,2019-12-01,Final Space,Final Space,"Animation, Action, Adventure            ",8.2
+277,2019-11-30,The Irishman,The Irishman,"Biography, Crime, Drama            ",7.8
+281,2019-11-07,The King,The King,"Biography, Drama, History            ",7.3
+283,2019-05-26,The Perfection,The Perfection,"Drama, Horror, Music            ",6.2
+284,2018-12-18,Outlaw King,Outlaw King,"Action, Biography, Drama            ",6.9
+286,2018-07-16,Love,Love,"Comedy, Drama, Romance            ",7.7
+287,2018-04-19,Lost in Space,Lost in Space,"Adventure, Drama, Family            ",7.3
+288,2018-04-14,The Expanse,The Expanse,"Drama, Mystery, Sci-Fi            ",8.5
+291,2018-04-09,The End of the F***ing World,The End of the F***ing World,"Adventure, Comedy, Crime            ",8.0
+292,2018-04-09,Stranger Things,Stranger Things,"Drama, Fantasy, Horror            ",8.7
+298,2018-04-07,The Walking Dead,The Walking Dead,"Drama, Horror, Thriller            ",8.1
+306,2018-03-14,The Danish Girl,The Danish Girl,"Biography, Crime, Drama            ",7.1
+307,2018-01-07,Bright,Bright,"Action, Fantasy, Thriller            ",6.3
+309,2017-11-21,Gerald's Game,Gerald's Game,"Drama, Horror, Thriller            ",6.5
+311,2017-10-07,Lucifer,Lucifer,"Crime, Drama, Fantasy            ",8.1
+314,2017-07-30,Okja,Okja,"Action, Adventure, Drama            ",7.3
+317,2023-03-02,Brooklyn Nine-Nine,Brooklyn Nine-Nine,"Comedy, Crime            ",8.4
+319,2023-01-31,You People,You People,"Comedy, Romance            ",5.6
+320,2023-01-29,That '90s Show,That '90s Show,"Comedy, Drama, Romance            ",6.5
+322,2023-01-14,Archer,Archer,"Animation, Action, Comedy            ",8.6
+323,2023-01-13,Kaleidoscope,Kaleidoscope,"Action, Crime, Drama            ",6.7
+325,2023-11-01,The Hatchet Wielding Hitchhiker,The Hatchet Wielding Hitchhiker,"Documentary, Crime            ",6.2
+326,2023-09-01,New Girl,New Girl,"Comedy, Romance            ",7.8
+327,2023-07-01,Alpha Males,Alpha Males,Comedy            ,7.4
+329,2023-06-01,The Recruit,The Recruit,"Action, Adventure, Crime            ",7.5
+330,2023-02-01,Glass Onion,Glass Onion,"Comedy, Crime, Drama            ",7.2
+334,2022-08-12,Hot Skull,Hot Skull,"Adventure, Drama, Mystery            ",7.2
+335,2022-05-12,Warrior Nun,Warrior Nun,"Action, Drama, Fantasy            ",7.0
+337,2022-04-12,Manifest,Manifest,"Drama, Mystery, Sci-Fi            ",7.1
+338,2022-03-12,Star Trek,Star Trek,"Action, Adventure, Sci-Fi            ",8.4
+339,2022-11-30,Enola Holmes 2,Enola Holmes 2,"Action, Adventure, Crime            ",6.7
+340,2022-11-29,Superstore,Superstore,Comedy            ,7.8
+346,2022-05-11,Big Mouth,Big Mouth,"Animation, Comedy, Romance            ",7.9
+350,2022-10-22,The School for Good and Evil,The School for Good and Evil,"Action, Comedy, Drama            ",5.8
+355,2022-10-13,The Watcher,The Watcher,"Drama, Horror, Mystery            ",6.5
+356,2022-11-10,Luckiest Girl Alive,Luckiest Girl Alive,"Drama, Mystery, Thriller            ",6.4
+359,2022-09-27,Heartbreak High,Heartbreak High,"Drama, Romance            ",7.7
+363,2022-09-24,I Used to Be Famous,I Used to Be Famous,"Comedy, Drama, Music            ",6.6
+365,2022-09-18,Cobra Kai,Cobra Kai,"Action, Comedy, Drama            ",8.5
+366,2022-07-09,Me Time,Me Time,Comedy            ,5.1
+367,2022-06-09,Look Both Ways,Look Both Ways,"Comedy, Drama, Romance            ",6.3
+368,2022-04-09,Mo,Mo,"Comedy, Drama            ",7.6
+370,2022-08-25,Never Have I Ever,Never Have I Ever,"Comedy, Drama            ",7.9
+372,2022-08-21,The Sandman,The Sandman,"Drama, Fantasy, Horror            ",7.7
+375,2022-08-20,The Sea Beast,The Sea Beast,"Animation, Adventure, Comedy            ",7.1
+377,2022-08-14,Day Shift,Day Shift,"Action, Comedy, Fantasy            ",6.1
+381,2022-07-30,Resident Evil,Resident Evil,"Action, Horror, Sci-Fi            ",4.1
+387,2022-03-07,Paddington 2,Paddington 2,"Adventure, Comedy, Family            ",7.8
+389,2022-06-19,Hustle,Hustle,"Comedy, Drama, Sport            ",7.3
+390,2022-06-15,"Love, Death & Robots","Love, Death & Robots","Animation, Short, Action            ",8.4
+395,2022-05-14,Senior Year,Senior Year,"Comedy, Drama            ",5.5
+397,2022-09-05,In the Shadow of the Moon,In the Shadow of the Moon,"Action, Crime, Mystery            ",6.2
+400,2022-07-05,Venom,Venom,"Action, Adventure, Sci-Fi            ",6.6
+402,2022-06-05,The Bureau of Magical Things,The Bureau of Magical Things,"Drama, Family, Fantasy            ",6.8
+403,2022-05-05,The Pentaverate,The Pentaverate,Comedy            ,6.1
+404,2022-04-21,Metal Lords,Metal Lords,"Comedy, Music            ",6.7
+408,2022-03-29,Snowpiercer,Snowpiercer,"Action, Drama, Sci-Fi            ",6.9
+411,2022-03-26,Black Crab,Black Crab,"Action, Adventure, Drama            ",5.7
+413,2022-03-22,Windfall,Windfall,"Crime, Drama, Thriller            ",5.7
+415,2022-03-16,The Woman in the House Across the Street from the Girl in the Window,The Woman in the House Across the Street from the Girl in the Window,"Comedy, Crime, Drama            ",6.4
+419,2022-02-19,Inventing Anna,Inventing Anna,Drama            ,6.8
+426,2022-01-31,Archive 81,Archive 81,"Drama, Horror, Mystery            ",7.3
+427,2022-01-21,Inside Job,Inside Job,"Animation, Comedy, Fantasy            ",7.7
+435,2022-01-01,R.I.P.D.,R.I.P.D.,"Action, Adventure, Comedy            ",5.6
+436,2021-12-29,The Last Kingdom,The Last Kingdom,"Action, Drama, History            ",8.5
+437,2021-12-29,Inside Man,Inside Man,"Crime, Drama, Mystery            ",6.6
+440,2021-12-27,Polar,Polar,"Action, Thriller            ",6.3
+443,2021-12-27,Robin Hood,Robin Hood,"Action, Adventure, Drama            ",5.3
+445,2021-12-25,Don't Look Up,Don't Look Up,"Comedy, Drama, Sci-Fi            ",7.2
+446,2021-12-23,Locke & Key,Locke & Key,"Drama, Fantasy, Horror            ",7.3
+448,2021-12-22,Titans,Titans,"Action, Adventure, Crime            ",7.6
+451,2021-12-19,True Story,True Story,"Crime, Drama, Thriller            ",7.4
+456,2021-12-12,6 Underground,6 Underground,"Action, Thriller            ",6.1
+459,2021-11-29,Hellbound,Hellbound,"Crime, Drama, Fantasy            ",6.6
+461,2021-11-28,Cowboy Bebop,Cowboy Bebop,"Action, Adventure, Comedy            ",6.7
+463,2021-11-28,The Harder They Fall,The Harder They Fall,"Action, Drama, Western            ",6.6
+467,2021-11-19,Seinfeld,Seinfeld,Comedy            ,8.9
+468,2021-11-14,Red Notice,Red Notice,"Action, Comedy, Thriller            ",6.3
+469,2021-07-11,Kate,Kate,"Action, Adventure, Crime            ",6.2
+471,2021-07-11,Arcane,Arcane,"Animation, Action, Adventure            ",9.0
+476,2021-02-11,Army of Thieves,Army of Thieves,"Action, Comedy, Crime            ",6.4
+479,2021-10-21,Squid Game,Squid Game,"Action, Drama, Mystery            ",8.0
+480,2021-10-19,You,You,"Crime, Drama, Romance            ",7.7
+482,2021-10-17,Another Life,Another Life,"Adventure, Drama, Mystery            ",5.3
+484,2021-10-15,Timeless,Timeless,"Action, Adventure, Drama            ",7.6
+488,2021-02-10,The Guilty,The Guilty,"Crime, Drama, Thriller            ",6.3
+492,2021-09-26,Sense8,Sense8,"Drama, Mystery, Sci-Fi            ",8.2
+496,2021-09-19,He's All That,He's All That,"Comedy, Romance            ",4.4
+498,2021-07-09,Brand New Cherry Flavor,Brand New Cherry Flavor,"Drama, Horror, Mystery            ",7.1
+500,2021-06-09,Clickbait,Clickbait,"Crime, Drama, Mystery            ",7.2
+503,2021-12-08,Charlie's Angels,Charlie's Angels,"Action, Adventure, Comedy            ",4.9
+505,2021-09-08,Marco Polo,Marco Polo,"Action, Adventure, Drama            ",8.0
+507,2021-09-08,My Hero Academia,My Hero Academia,"Animation, Action, Adventure            ",8.4
+508,2021-02-08,Kim's Convenience,Kim's Convenience,Comedy            ,8.2
+518,2021-07-25,Sex/Life,Sex/Life,"Comedy, Drama, Romance            ",5.4
+534,2021-06-14,Sweet Tooth,Sweet Tooth,"Action, Adventure, Drama            ",7.8
+535,2021-12-06,Modern Family,Modern Family,"Comedy, Drama, Romance            ",8.5
+539,2021-05-23,Army of the Dead,Army of the Dead,"Action, Crime, Drama            ",5.7
+542,2021-05-05,The Serpent,The Serpent,"Crime, Drama, Thriller            ",7.6
+544,2021-03-05,Insatiable,Insatiable,"Comedy, Drama, Thriller            ",6.5
+545,2021-04-28,Shadow and Bone,Shadow and Bone,"Action, Adventure, Drama            ",7.6
+549,2021-04-17,Now You See Me,Now You See Me,"Crime, Mystery, Thriller            ",7.2
+550,2021-04-17,Love and Monsters,Love and Monsters,"Action, Adventure, Comedy            ",6.9
+555,2021-04-04,The Shannara Chronicles,The Shannara Chronicles,"Adventure, Drama, Fantasy            ",7.1
+557,2021-03-20,Bad Teacher,Bad Teacher,"Comedy, Romance            ",5.6
+558,2021-03-20,Scorpion,Scorpion,"Action, Crime, Drama            ",7.0
+559,2021-03-20,Paradise PD,Paradise PD,"Animation, Action, Comedy            ",6.8
+560,2021-03-13,Gods of Egypt,Gods of Egypt,"Action, Adventure, Fantasy            ",5.4
+568,2021-05-03,The Blacklist,The Blacklist,"Crime, Drama, Mystery            ",8.0
+569,2021-02-27,Friends,Friends,"Comedy, Romance            ",8.9
+572,2021-02-21,The Legend of Korra,The Legend of Korra,"Animation, Action, Adventure            ",8.4
+580,2021-07-02,Firefly Lane,Firefly Lane,"Drama, Romance            ",7.4
+581,2021-07-02,Disenchantment,Disenchantment,"Animation, Action, Adventure            ",7.2
+585,2021-01-18,Sweet Home,Sweet Home,"Drama, Fantasy, Horror            ",7.3
+588,2021-09-01,12 Monkeys,12 Monkeys,"Adventure, Drama, Mystery            ",7.7
+600,2020-12-31,How I Met Your Mother,How I Met Your Mother,"Comedy, Romance            ",8.3
+601,2020-12-27,We Can Be Heroes,We Can Be Heroes,"Action, Comedy, Drama            ",4.7
+604,2020-12-25,The Midnight Sky,The Midnight Sky,"Adventure, Drama, Sci-Fi            ",5.6
+606,2020-12-19,Hunt for the Wilderpeople,Hunt for the Wilderpeople,"Adventure, Comedy, Drama            ",7.8
+617,2020-07-12,Emily in Paris,Emily in Paris,"Comedy, Drama, Romance            ",6.9
+619,2020-07-12,Klaus,Klaus,"Animation, Adventure, Comedy            ",8.2
+623,2020-11-28,Holidate,Holidate,"Comedy, Romance            ",6.1
+626,2020-11-27,Bleach,Bleach,"Animation, Action, Adventure            ",8.2
+629,2020-11-24,Derry Girls,Derry Girls,Comedy            ,8.5
+631,2020-11-15,Pan,Pan,"Action, Adventure, Comedy            ",5.7
+644,2020-09-24,Enola Holmes,Enola Holmes,"Action, Adventure, Crime            ",6.6
+655,2020-08-16,Dirk Gently's Holistic Detective Agency,Dirk Gently's Holistic Detective Agency,"Action, Adventure, Comedy            ",8.2
+662,2020-07-24,The Kissing Booth,The Kissing Booth,"Comedy, Romance            ",5.9
+665,2020-07-19,The F**k-It List,The F**k-It List,Comedy            ,5.2
+670,2020-06-24,The Order,The Order,"Drama, Fantasy, Horror            ",6.7
+677,2020-05-30,Trailer Park Boys,Trailer Park Boys,"Comedy, Crime            ",8.6
+679,2020-05-13,The Wrong Missy,The Wrong Missy,"Comedy, Romance            ",5.7
+682,2020-12-05,12 Strong,12 Strong,"Action, Drama, History            ",6.5
+685,2020-04-23,Despicable Me 2,Despicable Me 2,"Animation, Adventure, Comedy            ",7.3
+688,2020-04-18,Outer Banks,Outer Banks,"Action, Crime, Drama            ",7.6
+690,2020-04-15,The Secret Life of Pets,The Secret Life of Pets,"Animation, Adventure, Comedy            ",6.5
+693,2020-04-13,The Platform,The Platform,"Horror, Sci-Fi, Thriller            ",7.0
+695,2020-12-04,Code 8,Code 8,"Action, Crime, Drama            ",6.1
+698,2020-07-04,Now You See Me 2,Now You See Me 2,"Action, Adventure, Comedy            ",6.4
+700,2020-05-04,Ozark,Ozark,"Crime, Drama, Thriller            ",8.5
+707,2020-03-14,On My Block,On My Block,"Comedy, Drama            ",7.9
+710,2020-08-03,Spenser Confidential,Spenser Confidential,"Action, Comedy, Drama            ",6.2
+712,2020-01-03,Altered Carbon,Altered Carbon,"Action, Drama, Sci-Fi            ",7.9
+735,2019-08-12,Atypical,Atypical,"Comedy, Drama            ",8.2
+736,2019-04-12,Z Nation,Z Nation,"Action, Comedy, Drama            ",6.7
+740,2019-10-11,The Kominsky Method,The Kominsky Method,"Comedy, Drama            ",8.2
+744,2019-09-11,The Laundromat,The Laundromat,"Comedy, Crime, Drama            ",6.3
+745,2019-05-11,Black Sails,Black Sails,"Action, Adventure, Drama            ",8.2
+750,2019-10-20,Living with Yourself,Living with Yourself,"Comedy, Drama, Sci-Fi            ",7.2
+751,2019-10-16,The Politician,The Politician,"Comedy, Drama            ",7.5
+752,2019-09-10,Peaky Blinders,Peaky Blinders,"Crime, Drama            ",8.8
+753,2019-06-10,iZombie,iZombie,"Comedy, Crime, Drama            ",7.8
+755,2019-09-20,Unbelievable,Unbelievable,"Crime, Drama            ",8.4
+760,2019-05-09,Grimm,Grimm,"Crime, Drama, Fantasy            ",7.9
+761,2019-08-28,Orange Is the New Black,Orange Is the New Black,"Comedy, Crime, Drama            ",8.1
+766,2019-08-21,Crashing,Crashing,Comedy            ,7.7
+768,2019-10-08,GLOW,GLOW,"Comedy, Drama, Sport            ",8.0
+774,2019-07-15,The Fresh Prince of Bel-Air,The Fresh Prince of Bel-Air,Comedy            ,7.9
+775,2019-09-07,The House,The House,"Animation, Comedy, Drama            ",6.8
+782,2019-06-14,Designated Survivor,Designated Survivor,"Action, Drama, Mystery            ",7.5
+783,2019-06-14,Murder Mystery,Murder Mystery,"Action, Comedy, Crime            ",6.0
+787,2019-07-06,Happy!,Happy!,"Action, Comedy, Crime            ",8.1
+788,2019-07-06,The Invisible Guest,The Invisible Guest,"Crime, Drama, Mystery            ",8.0
+798,2019-05-18,Baby Driver,Baby Driver,"Action, Crime, Drama            ",7.6
+801,2019-11-05,The OA,The OA,"Drama, Fantasy, Mystery            ",7.8
+802,2019-09-05,"Extremely Wicked, Shockingly Evil and Vile","Extremely Wicked, Shockingly Evil and Vile","Biography, Crime, Drama            ",6.7
+803,2019-09-05,Bird Box,Bird Box,"Horror, Mystery, Sci-Fi            ",6.6
+809,2019-03-22,The Dirt,The Dirt,"Biography, Comedy, Drama            ",7.0
+810,2019-03-18,Triple Frontier,Triple Frontier,"Action, Thriller            ",6.4
+816,2019-04-03,Serenity,Serenity,"Drama, Mystery, Thriller            ",5.4
+820,2019-02-27,Velvet Buzzsaw,Velvet Buzzsaw,"Horror, Mystery, Thriller            ",5.7
+835,2018-12-13,The Fundamentals of Caring,The Fundamentals of Caring,"Comedy, Drama            ",7.3
