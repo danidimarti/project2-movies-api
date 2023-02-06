@@ -5,100 +5,76 @@
 ----
 
 ## 1. Libraries and Data used:
-1.1 Libraries: <br>
-    - plotly <br>
-    - matplotlib <br>
-    - pandas <br>
-    - numpy <br>
-    - calendar <br>
-    - warnings <br>
-    - wordcloud <br>
-    - random <br>
-    - pillow <br>
+<ol>
+    <li> 1. Libraries: </li>
+    <ul> 
+        <li>plotly</li>
+        <li>matplotlib </li>
+        <li>numpy </li>
+        <li>pandas </li>
+        <li>calendar </li>
+        <li>warnings </li>
+        <li>wordloud </li>
+        <li>random </li>
+        <li>pillow </li>
+    </ul>
+</ol> 
 
-2.1 Data sources:<br>
+## 2. Data Sources: 
 <ol>
     <li> 1. Personal Netflix viewing history, which can be retrieved from this link: https://www.netflix.com/YourAccount </li>
+        <ul> 
+        <li>Columns: Title, Date </li>
+        <li>832 values / 544 unique</li>
+    </ul>
     <li> 2. Web Scrape of this IMDB list: https://www.imdb.com/search/title/?companies=co0144901 </li>
     <ul> 
         <li>list ordered by popularity </li>
         <li>1000/ 250000 instances retieved </li>
+        <li>996 values / 986 unique </li>
+        <li>Columns: title, ratings and genre </li>
 
+    </ul>
+</ol>       
+        > Note: IMDB offers two API options: official (paid), unoficial (free). An attempt to retrieve data via a IMDB API was made. However, the free API possess limited options. The above list would allow more possiblities for analysis. 
  
 
-## 2. Data Cleaning Documentation: 
-
+## 3. Data Extraction and Cleaning Documentation: 
 <ol>
-    <li> 1. Personal Netflix viewing history, which can be retrieved from this link: https://www.netflix.com/YourAccount </li>
-    <li> 2. Web Scrape of this IMDB list: https://www.imdb.com/search/title/?companies=co0144901 </li>
-    <ul> 
-        <li>list ordered by popularity </li>
-        <li>1000/ 250000 instances retieved </li>
-
-2.1. Check for missing values <br>
-2.2. Drop empty rows <br>
-2.3. Consistent naming convention: <br>
-    - Capitalization <br>
-    - Word separation <br>
-    - Extra spaces <br>
-2.4. Fix inconsistencies in Fatal column <br>
-2.5. Fix Year Column <br>
-    - Drop NaN <br>
-    - Drop Invalid Year format <br>
-2.6. Remove duplicates keeping first  <br>
-2.7. Export csv for data extraction and visualization
-
-## 3. Data Exploration & Visualization
-3.1. Create subset filtering Country data to Brazil <br>
-3.2. Count yearly occurencies of attacks <br>
-3.3. Found median and average values to stablish baseline. <br>
-3.4. define a criteria by which analyse data <br>
-3.5. Filter data from 1950 onwards for better visualization <br>
-> ANGRYNESS FACTOR: to be relevant angryness factor should be at least 20% above average. <br>
+    <li> Scrape data from IMDB list </li>
+    <li>Indefy tag and classes of Title, Ratings, and Genres</li>
+    <li>Consistent naming convention for joining tables later: word separation, removed subtitles and episode names(anything after :), removed line break tags, etc</li>
+    <li>Review need for dropping NaN</li>
+    <li>Remove duplicates</li>
+    <li>LEFT JOIN df_netflix to df_imdb based on Title name</li>
+    <li>Drop duplicates</li>
+    <li>Export CSV for extraction and visualization</li>
+    
+</ol> 
 
 
-## 4. Plotting
+## 4. Analysis & Visualization
 
 ## <span style="color:darkslategrey">Q1: Which genre(s) am I most likely to watch on Netflix?</span>
 
-<img width="808" alt="Shark-attacks_BR_WC-2014" src="images\genre_graph.png">
+<img width="808" alt="genre-graph" src="images\genre_graph.png">
 
 
 ### <span style="color:darkslategrey"> ### Q2: Which months I have Netflix & Chilled the most recently? </span>
 
-<img width="803" alt="Shark-attacks_BR_WC-history" src="https://user-images.githubusercontent.com/32434139/215419969-23c9c1f9-b973-40b1-9297-eef49dac37f4.png">
+<img width="803" alt="seasons" src="images\seasons.png">
 
 
-### <span style="color:lightslategrey; line-height:1.5em"> **Analysis:** </span>
 
-Data shows that _Brazilian_ sharks do not react negatively when Brazil loses in the World Cup at all, with numbers in those periods being in all time lows. 
+## <span style="color:darkslategrey"> ### Q3: How do the seasons affect my choices? </span>
 
-In fact, the rise of the 'angryness factor' on the years leading to some World Cups (see 2002, 2006, 2010 and 2018) could indicate that _Brazilian_ _sharks_ are are generally against what some believe to be the Bread and Circus politics surrounding the event. Qualitative data (e.g. interview with the sharks), is needed for further analysis on that subject. 
-
-
-## <span style="color:darkslateblue"> ### Q3: How do the seasons affect my choices? </span>
-
-<img width="755" alt="Shark-attacks_BR_angryness" src="https://user-images.githubusercontent.com/32434139/215419878-77e69851-ae71-48dd-ab53-ee1463d80820.png">
+<img width="755" alt="season-and-genre" src="">
 
 
-### <span style="color:lightslategrey; line-height:1.5em"> **Analysis:** </span>
 
-Data shows that most fatal attacks happened when Brazil won the worldcup which is leading this researcher to believe that perhaps this is actually how sharks celebrate the world cup. Further research is required to understand sharks customs regarding sports. 
+## <span style="color:darkslategrey"> ### Q4: What kind of title am I attracted to the most? </span>
 
-
-### <span style="color:lightslategrey; line-height:1.5em"> **Conclusion:** </span> 
-There's no direct correlation between World Cup outcomes and the Angryness Factor of the sharks. However, more qualitative analysis is needed in order to better understand sharks views and costumns around the topic. 
-
-![wow](https://user-images.githubusercontent.com/32434139/215419740-5eff78f2-09fd-4ec8-82a7-64a3bbd8f0f6.gif)
-
-## <span style="color:darkslateblue"> ### Q4: What kind of title am I attracted to the most? </span>
-
-![Shark-attacks_global_WC-history](https://user-images.githubusercontent.com/32434139/215450500-2ca025fa-52a8-481b-89d0-7592fb810845.png)
-
-### <span style="color:lightslategrey; line-height:1.5em"> **Analysis:** </span>
-
-None of the countries that made it to the World Cup finals had a significant increase in the number of attacks, regardless of the outcome of the match. 
-Note: Netherlands data was not available in the dataset.  
+<img width="803" alt="wordcloud" src="images\wordcloud.png">
 
 ### Thank you!
 
