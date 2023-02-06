@@ -5,7 +5,7 @@
 > _A cross data analysis between imdb and my Netflix viewing history_
 ----
 
-## 1. Libraries and Data used:
+## 1. Libraries:
 <ol>
     <li> 1. Libraries: </li>
     <ul> 
