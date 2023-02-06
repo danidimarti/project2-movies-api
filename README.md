@@ -64,14 +64,19 @@
 <img width="803" alt="seasons" src="images\seasons.png">
 
 
+## <span style="color:darkslategrey">Q3: How picky am I when chosing a movie of a certain genre?  </span>
 
-## <span style="color:darkslategrey">Q3: How do the seasons affect my choices? </span>
-
-<img width="755" alt="season-and-genre" src="">
-
+<img width="755" alt="season-and-genre" src="images/ratings.png
+">
 
 
-## <span style="color:darkslategrey">Q4: What kind of title am I attracted to the most? </span>
+## <span style="color:darkslategrey">Q4: How do the seasons affect my choices? </span>
+
+<img width="755" alt="season-and-genre" src="images/genre-and-season/png">
+
+
+
+## <span style="color:darkslategrey">Q5: What kind of title attracks me the most? </span>
 
 <img width="600" alt="wordcloud" src="images\wordcloud.png">
 
