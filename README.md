@@ -33,10 +33,9 @@
         <li>1000/ 250000 instances retieved </li>
         <li>996 values / 986 unique </li>
         <li>Columns: title, ratings and genre </li>
-
     </ul>
 </ol>       
-        > Note: IMDB offers two API options: official (paid), unoficial (free). An attempt to retrieve data via a IMDB API was made. However, the free API possess limited options. The above list would allow more possiblities for analysis. 
+        > Note: IMDB offers two API options: official (paid), unoficial (free). An attempt to retrieve data via a unofficial IMDB API was made. However, the free API possess limited options. The above list would allow more possiblities for analysis. 
  
 
 ## 3. Data Extraction and Cleaning Documentation: 
@@ -60,21 +59,21 @@
 <img width="808" alt="genre-graph" src="images\genre_graph.png">
 
 
-### <span style="color:darkslategrey"> ### Q2: Which months I have Netflix & Chilled the most recently? </span>
+## <span style="color:darkslategrey">Q2: Which months I have Netflix & Chilled the most recently? </span>
 
 <img width="803" alt="seasons" src="images\seasons.png">
 
 
 
-## <span style="color:darkslategrey"> ### Q3: How do the seasons affect my choices? </span>
+## <span style="color:darkslategrey">Q3: How do the seasons affect my choices? </span>
 
 <img width="755" alt="season-and-genre" src="">
 
 
 
-## <span style="color:darkslategrey"> ### Q4: What kind of title am I attracted to the most? </span>
+## <span style="color:darkslategrey">Q4: What kind of title am I attracted to the most? </span>
 
-<img width="803" alt="wordcloud" src="images\wordcloud.png">
+<img width="600" alt="wordcloud" src="images\wordcloud.png">
 
 ### Thank you!
 
