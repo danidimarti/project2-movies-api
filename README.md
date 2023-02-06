@@ -1,4 +1,5 @@
-![hello](https://user-images.githubusercontent.com/32434139/215419654-e8d047aa-1ee7-4845-ad4c-fcda0972101b.gif)
+
+![intro](https://user-images.githubusercontent.com/32434139/217019138-d6393f5e-d4b2-4552-a3f6-ba587c41438b.gif)
 
 # What can data say about my Netflix habits?
 > _A cross data analysis between imdb and my Netflix viewing history_
@@ -75,10 +76,11 @@
 <img width="755" alt="season-and-genre" src="images/genre-and-season/png">
 
 
-
 ## <span style="color:darkslategrey">Q5: What kind of title attracks me the most? </span>
 
 <img width="600" alt="wordcloud" src="images\wordcloud.png">
+
+![popcorn](https://user-images.githubusercontent.com/32434139/217019247-f28a71e5-bc78-4d19-bfec-8102ea08be54.gif)
 
 ### Thank you!
 
